@@ -1,3 +1,3 @@
-# Ini adalah Readme
+# Ini adalah Readme.md
 
-saya nulis sesuatu untuk di bukukan di logbook
+saya nulis sesuatu untuk dibukukan di logbook.
